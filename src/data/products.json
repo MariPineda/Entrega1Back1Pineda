@@ -1,0 +1,44 @@
+[
+  {
+    "id": "f1ac0f3c-58ed-4851-add4-1cb7cf6860ce",
+    "status": true,
+    "title": "Pantalón",
+    "description": "Gabardina, verde musgo",
+    "code": "00004",
+    "price": 38000,
+    "stock": 22,
+    "category": "Informal",
+    "thumbnails": [
+      "imagen7.jpg",
+      "imagen8.jpg"
+    ]
+  },
+  {
+    "id": "5d0c3b26-0f8d-4782-b4da-b80f901972a7",
+    "status": true,
+    "title": "Remera",
+    "description": "Algodón, estampada",
+    "code": "00003",
+    "price": 27000,
+    "stock": 8,
+    "category": "Urbana",
+    "thumbnails": [
+      "imagen5.jpg",
+      "imagen6.jpg"
+    ]
+  },
+  {
+    "id": "6fc3bcf2-efb8-41b9-9940-9e6a266aa9ad",
+    "status": true,
+    "title": "Pantalón",
+    "description": "Jean, oxford",
+    "code": "00001",
+    "price": 58000,
+    "stock": 6,
+    "category": "Urbano",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ]
+  }
+]
